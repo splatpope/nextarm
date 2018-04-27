@@ -2,10 +2,6 @@
 
 This project aims to connect a Nextion HMI display combined with an Arduino board to control a robot arm from a simple, intuitive on-board GUI.
 
-You can use the [editor on GitHub](https://github.com/splatpope/nextarm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Nextion HMI display
 
 The Nextion resistive touch-sensitive display card is a Human Machine Interface designed to interface with small IoT applications. 
