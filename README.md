@@ -49,8 +49,8 @@ Other sizes of the Nextion HMI can be used, but a GUI image file compiled for on
 Included in this repo are the following folders and appropriate files :
 
 - Arduino : Contains all relevant files for the arduino programming environment.
- - Code : What you will need to compile and send to the board. We recommend copying the folder to your sketchpad and renaming it to something appropriate.
- - Libs : The required libraries for the Nextion GUI. Copy them to your arduino IDE's designated 'libraries' folder. These libraries are available on Nextion's website. *verify*
+ + Code : What you will need to compile and send to the board. We recommend copying the folder to your sketchpad and renaming it to something appropriate.
+ + Libs : The required libraries for the Nextion GUI. Copy them to your arduino IDE's designated 'libraries' folder. These libraries are available on Nextion's website. *verify*
 - Nextion : Contains the required .tft image file, as well as the relevant sources for generation in Nextion's proprietary IDE.
 - Tutorial : Contains a PDF file detailing how to use the Nextion display with an arduino board. Do not hesitate to read it.
 
